@@ -1,4 +1,8 @@
 *.pyc
 */migrations/*.py
+<<<<<<< HEAD
 !__init__.py
 db.sqlite3
+=======
+!__init__.py
+>>>>>>> 78323924af45a40a1bf6612c03a36eabf9cf9db3
